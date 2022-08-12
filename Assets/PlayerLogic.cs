@@ -3,7 +3,7 @@ using System.Collections;
 
 public class PlayerLogic : MonoBehaviour {
 
-	public float playerSpeed = 0.8f;
+	public float playerSpeed = 0.25f;
 
 	float maxPlayerXDistance = 12.0f;
 

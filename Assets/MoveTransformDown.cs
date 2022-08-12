@@ -3,7 +3,7 @@ using System.Collections;
 
 public class MoveTransformDown : MonoBehaviour {
 
-	public float transformSpeed = 0.08f;
+	public float transformSpeed = 0.05f;
 
 	void Start () {
 	

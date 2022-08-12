@@ -16,7 +16,7 @@ public class BoxSpawner : MonoBehaviour {
 	float randomX = 0.0f;
 
 	void Start () {
-	
+		StartCoroutine (spawnBoxTimer());
 	}
 	
 
