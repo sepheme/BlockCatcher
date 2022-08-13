@@ -21,7 +21,7 @@ public class BoxSpawner : MonoBehaviour {
 	
 
 	void Update () {
-	
+		//despawnBox ();
 	}
 
 	void spawnBox(){

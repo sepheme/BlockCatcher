@@ -13,4 +13,10 @@ public class DestroyBox : MonoBehaviour {
 	void Update () {
 	
 	}
+
+	void OnCollisionEnter2D(Collision2D transformCollision){
+		if (transformCollision.gameObject.tag == "Box") {
+			Destroy (transformCollision.gameObject);
+		}
+	}
 }
