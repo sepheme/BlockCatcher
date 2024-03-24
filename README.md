@@ -1,2 +1,2 @@
 # BlockCatcher
-A simple 2D game where you catch blocks
+A simple 2D game made with Unity where you catch blocks
